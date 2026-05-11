@@ -3,200 +3,200 @@
     "id": "recGgQORxP1vnVPLH",
     "createdTime": "2026-01-20T04:08:17.000Z",
     "fields": {
-      "Name": "ленина",
       "Pic": [
         {
           "id": "attwNuHxEEOAvxaEz",
           "width": 3308,
           "height": 2339,
-          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/ESRgEmAHJ4A2kpVtcGgO0Q/sYM9a3-bxjMUD6JowwP301x-C6XG7oh6dPlvTR-_crlzaV4UFKCImQnIzRqCSZz2083AxcmFOKO8dfW8v4Tau8qO9vKNJZdz9JbjkWRmFZC9ekBcsPjgn0q3SMNk27y-E2JHda7uRSB9Wfk1loqISwt_IH-OLNxCFsyMta_si9E/d3xmfdcTkDte7bJpgqTx8NaApu75d3VeJEGyWjArnoM",
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/WzZ3fL_eOpuFId-ULPSpZA/7n1GCNq0nh2fr7Vu9WxgoQ-Wjza2ucX6NAHXrgGb7jyOhsa3Yxs3CzfUVRrVGoabc_JhX0bn5gBDGpHihVZfyXtL38CrAkctHIjHLFYgpFItauscLbn6OKUvnA7Z6oLixDyqImlPoTjGDMqv4aOkfMJ2AhTudjszFnmKd8iR6dg/FhJ7nz5pGPjUucu5nPEa5nJyAjkbI9rY_LGYNW3aOOs",
           "filename": "LITE-1.png",
           "size": 265715,
           "type": "image/png",
           "thumbnails": {
             "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/ED_bBb0lPhVdfxipK4KMEg/F9DxcOg2jdLATVEBU4VZqa53heDjrkBaExI94QZ12fovkouSvCNh25pe3okhLX0SllL2Xc3SHS2Jh9gHMHsxXlK3EjHdXvPOKfA2wtbIRRZ0Bs7DTnMjuIMOZSo-o0VY_6LEWcmGZBZeITxstRXJ1w/km6mq2dHvMid-voxBdiSXdmz78dADCBLzBncnJXdl6s",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/-tVLu-OenNWFUTiw8UuLGw/7_rJwi2JR8SzbV7Nk0st24U6pTabBoeU87J_mnOCmdq97mi4VQr1OP9xsVjwdO7WBTVfMNZWyh18WkpyBOAppmD0jjG1KEXnU_wCrXFC76q0yRaib-qmEMx6ph4XUEMtqDZEfFw7i8IhBsMwSX3GfQ/CUds5qo6EQ3suryF2A_aYlb-JFia6DGs5oPihgo7j9U",
               "width": 51,
               "height": 36
             },
             "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/Gf1IQTXVxdUM4AOw__RxxQ/Gg4ySGqz51zn9qi-jO8oaHuZVWZl-0wjlMo3lpmr7Nk5Ad-1LPKT3V1OXmPzI83o0QcqvKz8JYaSAL0Ukt8y2MEyjdvwJGP7d2WsW-wqTOk0N6HX6I3r0QBNELNt0kthoP8XHRPXtX8iZx5LxzjtPg/h-X50e3bt-_tCYt7nkciosRNHFTgw6171jHV1xcVLvs",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/wKiySA5OZUPZ6f-dJAXkXA/ybz-GUwMyaaftCSo68WBAvGIrTtfm65J4q6n5t5_5WZgl5AZyFH5_dZTQPuYnqwbAtnbm9fpuj7yRROXjKv3WevTsuDU-Tjic8p2mtEPvhjOcp0KeFCu_8hcR3jqWpxp7MhYZE5xgnO8uHx-7tWetA/bOr6N0ntPmlVLAVaoMbgMYnE36qZAgkTrsdv-R6r-RM",
               "width": 724,
               "height": 512
             },
             "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/9QkOfXI-4LJxCD5i8hdK0g/a9fWxvdjN9i-wSJKb1U0UGhFN3qFOpd8oWJCdTmz1I20d609T9c-EkoandT9TCyRTbojZFZ1PUFdOiDcGNiYzlBap9pfIEObM_QN1dj5tpWbIAXaZyN6fHxqVlz-gY9sw3QptaelPgN8rGtng7ObNg/t_2xlyEJVa62_w1FRlzjakKNgmpgflqotpgK5FasruQ",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/e9oaWWZCLoRnfD2gMvV6ww/Kuho2BbsaOb-KlJCIkOJEAfUS3ISfVhMpp-LF5Vft_9govtURlNVLux1O8olPgaa8ElOA_lNuQ8nOTE0MBgN-OturyQUIUQYu4C8FD5htFUPx7q6ew1mRGp4RGkBno_TranrIJhvKL-Ma96SZlBdNg/zPERZAmZ2k3ZaICu8AnPCCWKbzdPVEqJxokjft73KAg",
               "width": 3000,
               "height": 2121
             }
           }
         }
       ],
-      "full address": "Ленина, 3",
-      "button text": "сделать заказ",
-      "link url": "https://t.me/spotandchooslite",
+      "Name": "ленина",
+      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001057167568/82.917435%2C55.029495?m=82.923647%2C55.024126%2F10.69",
       "city": "центр",
-      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001057167568/82.917435%2C55.029495?m=82.923647%2C55.024126%2F10.69"
+      "link url": "https://t.me/spotandchooslite",
+      "full address": "Ленина, 3",
+      "button text": "сделать заказ"
     }
   },
   {
     "id": "recHYlmUNQ9VewmEf",
     "createdTime": "2026-01-20T04:08:26.000Z",
     "fields": {
-      "Name": "блю32",
       "Pic": [
         {
           "id": "attpvsnGKm35gvWiP",
           "width": 3308,
           "height": 2339,
-          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/JXIXhdUJTAhpHeBxPbBniQ/dVlhWu1OxeQjr36SC4GJkSKosJ4M0DBOTmV8szxDeBIgG8uhrNeUpi8wHAaJir9PHNZYzD9NU0bEKuDw3OqBt7SI-FhvTjoEaRUNSooQ978uKIWtYjjKLgPujyLa7MUzF28ZK-8F3ZhNK2Vw0AEfiA/-nqu-0xC-jVLLF0O9t8tIrGgOKDkWkt9Kk8Ck6pNpcM",
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/SMrX2zmSOLNL2dmeiNOnvQ/Ahtiz2EJJobaB3F5UNNlz3CSePDXg_3AeyDbciG_llq1_RTecs69M15FeqFuW15AnZil0P_LpbHkdKU4EeaVM4ooTvst0QaK_gy8JKJzRG4DPiN0IHIZgyFuQYB3SX3VyYUd4Vqrh_OmeTCfzmr3Lw/ioLrTURVzxSrnp0DQKfA2IlddPpgnPfitlG5MSs_-bc",
           "filename": "нгту.png",
           "size": 321510,
           "type": "image/png",
           "thumbnails": {
             "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/3l2BKGFl0NOP-H8MAT-TJQ/-5ANrbpJAVrq9ZP9wB4oKbjpjKthQOcJ9cW_ZjK3vj8fKfu5E7e_E4WqIkLukjbPIJR5qFWdogFI-c0Ir7WeXcXMDRwn9NU236TSxCxQVkX3DOCkuPmG5v0bWH2rZ3Jhmr4gzaCtsG7Azg2CLozSyA/4z1trfI7Y5SYjNNw99yfGueYBr0yLTWRbkBQJ-stEG8",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/ntddOt4wvifto_OHtShjMg/8pzihfZTT7XF0ZYt0Y4STNSTlkWdHpg7ho-kaZSWz3YuqWK-yaJrIfRboAyMcuYd8byiHd-dkMf6bOJ1kMi5nyiyoLlT0f_YY4jNqiOEfysx5iYAmDfEVl8inYoz9Wdk16ckPKOaQDqiAGmhcZnmGQ/GESBii-ifvGCkKwg6sePQgC9DFPCPX3EuMyuhvtJBEc",
               "width": 51,
               "height": 36
             },
             "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/Qi9MT7GhA-s242yRde64Ng/nSuxcREFRniadfHhDbiqEJQmv3DobLvA_x9geVUhNiHUJSAaG3dcmqMQFCQVCx-EQ2s7kIen07TjQ4iLat9i3q72jrmerhSC6R2WPsMtsT8FqIDJK3OAn4d8cqp3rqL-v0IsDQDxV3ZPbW8n3-RP3g/BDlizA6nfYt261KQWI_qbS2TEpuOkEBcoXdiUFIhPns",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/nWO1p1qTudubdLjSTEyPhw/MUF9xgTpPW_1MMbZzMQDPkgXLBRRc4xWxxdSpgMphxVVQINvC_0JIXmP0uQCgUyOKm7p1HR9U2-vhGlh_6V_sP9z3P2r5xKaokK2p1XKqHDqs2XCgV7CFGXZZU3IeXiu16oxIexwgBwDXm0iHq0s8g/SrU7aYSIvNfq3JwzBaE6SsOnEnhkzM9qnS2hlXsRgpg",
               "width": 724,
               "height": 512
             },
             "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/yPT1lF5-vdksKG4-PErvrA/TiDt729cez2O-HJv3ohhchXRjkL0WNxuMZjG2XePxCMC7_FQwEoXXqRLIMxSEwy3gmGfCYxRU3y7_4afxHxSumg51GjeizTFcgQqQZoCjY-zhgAl1hROXPZHb8sjzbBMU6ZZk781df8EpW37oCsJXA/sZrotRVY17w28U-DlJ8Qb7oV7N-JjuLrOxEuSBlRj2E",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/GJn_0nMV_KYnFPkGIH07zQ/jq7D9-IYFt4J1RQcyhqfQPBSQI2kiDp_D93ZOuWz-fBZo9a98vzkfLY7LcdZOS3_TU7t2ZPny21i4vsUEz-bGWtx8A08QWmUsJWRYwab6ByBsNiF2c9spsp80CXlxmY5Un_DfDNl6CPqz2zmm4mq2g/JUn4SMVG1soVnaxiTyjRlPME3aa4t5gSHDO3p8HatmI",
               "width": 3000,
               "height": 2121
             }
           }
         }
       ],
-      "full address": "Блюхера 32/1",
-      "button text": "сделать заказ",
-      "link url": "https://t.me/spotandchoosleft",
+      "Name": "блю32",
+      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001057167568/82.917435%2C55.029495?m=82.923647%2C55.024126%2F10.69",
       "city": "левый берег (нгту)",
-      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001057167568/82.917435%2C55.029495?m=82.923647%2C55.024126%2F10.69"
+      "link url": "https://t.me/spotandchoosleft",
+      "full address": "Блюхера 32/1",
+      "button text": "сделать заказ"
     }
   },
   {
     "id": "recQnoyu04iB3JwAP",
     "createdTime": "2026-01-20T04:08:28.000Z",
     "fields": {
-      "Name": "кольцово",
       "Pic": [
         {
           "id": "attMxNOlLHtC67M8r",
           "width": 3308,
           "height": 2339,
-          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/5D8KX6v8-Q_LeTak3N51pA/tz7Fzy4oj_YrE81vSo_db0oakrYOOIkdPthR4Dh5MlfWd26JO7Jpln64K9uA4PYj3IJVa2CgZW9npAamL7KZ9zBfZqmWt8PzT6ngWy6zBrd3ipOrj1uCQOwsDvKgFHSjZ8OAe3tGu8h_oHzy9N0eIw/rZ09-HdkksCnteTKl54hZYP2UTcjCq2U3LbC17AnD54",
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/tCiIwKPgwO_86YKfBJBFfQ/zxDJ1IZVc0YM7zECpmHn-WO7PNYMIRa2ZUeofiqC002yID2EMMB3LBYVKVy1B-SDk6Wp1O6baBcjXQDnoaGgtSDgVAWPvvnsSnVVviyVzpMZWI9LSCHoiKCOnIsDdNPbwKAb-4TAHzz3A3ZfjZEMdw/ZbYlGBNmVupyP0BAgYY0ff2wV__Ew3Lzn_CkwyNDk5k",
           "filename": "академ кольцово.png",
           "size": 326249,
           "type": "image/png",
           "thumbnails": {
             "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/uYs8kROTb6zW5iX3oE7Pjg/2e57jn6GKR7gw4Il7JcPwPLRyxEq-EK98zlkAttaWe-UaSEhHRUBybdEDGDR7I86jTgRijxvvW-grbB3Ac9ZAJe32uJ1h8X1n7ntHmlBOsd5D_hkrb97URH1GGiA-2g0Fm3P-6xI7zguUKMAlQu4fQ/Y203AxlRJSkQlnxJbYCAMo5VtQlPLjslkhW3NJe63Ps",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/VUvt6JOV6WbPPnXdTx24dA/btNyv8aPDIcTFeg6gqOtfM5I8ULxHrr2761UxAxGduxyLYqRvyQltc4fsLAePnTO8SHDxvFygBPnKU3L94Va_ommzo2H_f45nUH92gYb-a778lUl6AfLFNLsmLXOft1s7fvuTHJsNjh2zlXVdltr3w/_mvOgb9ffn5WHUNrtM8NJX-WKkMiIackLDSyfQGc_XA",
               "width": 51,
               "height": 36
             },
             "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/UljPT5yfmZbjzq4tGOlx5w/Feqe_JGBVtuQURZ8wzsdgHtUZlPgwpA4rc43nt6w9PlAZJRlqG7LqWIy7oPN5Rg_W4u8L3saywJCQdluy5AUGX8WSM8ANuOPoSTcUhvF9sO_z0n_SiKX-_cPZTxDJeNXjQcqZYCtv8jAB-eK8HgiVg/4MuSo_bIQnbxCM5P1V1IoAoCaew5apUxWvRH1D7E6hM",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/7-xJvI7N8md3MHzwl-ZHtQ/6kWzhQR9DdIssw3TJYXI5q8VgQabcoK4TmGmRHCtaKQxF35LBZXmW3bJdIOWPODt898hc_FGOZSHf8Y1gym5h5bt1DQCQP0QGUOmbHW4pbikmkKZNCClyjmbmsr01ezH0mtNejHeftpQQAZATN-rgQ/tnB-fdj4v06iHJnpXQB1peSWBmxdFVsYYV01xM3Q-OA",
               "width": 724,
               "height": 512
             },
             "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/o_on1IMQSDRih86DdspimA/F-U8W-XW_qSsS2alZzXkc5GrBBL7sWa92awMSGkTKys__FiEAVdWuGic3FLbjmxtq4GvRkYSGLIQPJR683WdryVM7X1XnKGpHp8fEvmMGzwQbi95JqKjO7hqSkSfq3W-dhyvbDggoLVuuFASAjK9cQ/qBujDK2C-e0DCrxFEW9aJojvAuCKIlmqgjOU9TTria8",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/8wzzs5bSU-Gk2JBL5--x0Q/5bJ8k6vEjQ6xetgG8nlNKxDX0QSFI8_GEgcsYQmllJV1gTzyIsnS1l5znheSH7gk6oY-Z2JvTwAlvsrDrU7CSXR9YLbuUh497Z4NZgARGGTtdDTb-i6-FtSmqqUjifxA6tGB3d6i3Ad1TWSAma0hhA/bs5uWpBGQ729cFomzKUFMcyydMaL8rfxl06uFDxg_l0",
               "width": 3000,
               "height": 2121
             }
           }
         }
       ],
-      "full address": "Академика Сандахчиева, 5",
-      "button text": "сделать заказ",
-      "link url": "https://t.me/spotandchoosKoltsovo",
+      "Name": "кольцово",
+      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001096091488/83.192122%2C54.941693?m=82.923647%2C55.024126%2F10.69",
       "city": "кольцово",
-      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001096091488/83.192122%2C54.941693?m=82.923647%2C55.024126%2F10.69"
+      "link url": "https://t.me/spotandchoosKoltsovo",
+      "full address": "Академика Сандахчиева, 5",
+      "button text": "сделать заказ"
     }
   },
   {
     "id": "rechjcj3FIgwCoBma",
     "createdTime": "2026-01-20T04:07:23.000Z",
     "fields": {
-      "Name": "академ",
       "Pic": [
         {
           "id": "attnNyZvfXsLrxB0H",
           "width": 3308,
           "height": 2339,
-          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/V_sf9TMGJ4jr7pnkvf8KmA/Rxycpb9wdp9n6shlDAq-QqtqeYzXyLqZsnC7j3vaove-LWQfzjdvRqmScWFvg-gajWTryk_jR9l7Nq7gqIRwvoEQ6IwFTOWxnng_0ARiRcd7YYQ01F27A00wjcoF2WxgAbXIlgKzUuGbav07vGVC2w/SX_cLONnUzKkSdOY9Z7Ngr2Yagp8yRYWXxmfA38SqPc",
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/EtsF1crG8wjilkQI7MtlVw/RgcrRcnX8GoJYOtbiwKVjIbExUHVA_b7yM_p2c9FhnA9YiiaYAxEyNjCaSqJG_QdxRaDCauSiFB_itdDaTul84ug3B8MfUudkH-R1hg4fNTb-29VoqkOaC1jQ9zItmia53sSb_adGNPiYVL0yzip3g/an6EwX7_i68l6s_quyX-9bmfMsEmLL-mEToAOkUNl74",
           "filename": "академ кольцово.png",
           "size": 326249,
           "type": "image/png",
           "thumbnails": {
             "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/uLaXh5TxZasIBC3A2GoWjw/_SZV6LXJO3uk-vW6H8GskiKTfq7XzPN6n7enkPg46io_cc8clxHpjopQ08X1Rxku4aJ6OqrRZ8V78mSBbC48tnfhCaBzPRgwgUaPvHfDuctS4IxSNOWNZ1GPy3Y6zzqzGfShqy9o-UKWrMS6eOKfqw/hUnlzE_KRvZG5d2BPZvTjnGMzG2QCba0js2gOjfdNXs",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/aLy5uq1WKT0wl-FRiWs2lA/a55KDC17cfoPyiezQl-T9W8W0KFm5wZcNC1a7_P-JcG3Jw5hN8MKO_pAkAh6SYS2rs45Nhyx481-aCrBhaQ1yI5ZEv69cMl3x-80JEf_zNp3y2gsTLZbuVJihgLskjx5qVGcZ8LrEyrJkwb7h8Umyw/Vuudrc-o87uZp2I9NN9HDQACDMA_gGYJFwyVLe7mV1Y",
               "width": 51,
               "height": 36
             },
             "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/p8nNdduMzCx4ACpWPMVKIA/jo5Mks0eM3f3BoCaUN7P2Gu4XOudtdH8jEDd7NEySCmPfzrw0EgF9E9uupyIHIpk8ZkP8ucHwf7Nn70HIYfFFKB0zakgYtZjxuTgkXajEgM045b6MJkARY8Fqo5530xCOR2ki8x3WmYetQhum_yKCQ/ybCBr7XDkV6y6z_iSgwUnVzr8yIx1VIu2S80nDdWrxc",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/n00apBE-Nsru-Psk_t5DpA/2IT-rOteGSObeuR224LaMQ7wPihs57n8veyoLyLm_Qv_F3Qdvvd7g0IqWlr2US8m12tTZLIYehW4zPV2jzDyDF2pJ7IXfzx4HT5GIGZd5TRj6ZjcmsmUnuV7LP2ACcmch8TUgHc6pkjwC62Ee4792g/8ZcIEm7inPha0VtM8cYKiiPaW7meYiKFzg9sduRrWyg",
               "width": 724,
               "height": 512
             },
             "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/nSTmZFBo3HjXQeUzIOCS-g/BTrDWtHAtktcnihbErkD6i3kF4KTUHbGSkntn4liwROZ9uPK52cijfiULnNxzcZNHO-emMl8-qVdgw_01AJY6X5f-Cr7XCVg_9WNBeD2sBm1pyaQghEshXa_kBc84fVWA0mqhPs6I7R6OJdi4R5PaA/gunXZZ2o8yBp8YgYZlKaqEIDbnOtIMpdysvjFU5xoBQ",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/rF1LHYGKNfQauE7MQyO8PA/-01IazjKO2w4hTjY48i723TQUDvfL53Sej7zMrDHG-aSPNxl_tkr6F97_rrUM61_uU7fHIwoa5cQFzUQX-HbbBKNHQtcZRHXnJxw8Lb_sj_l7msbMGs9QaLxayycLKYHGxUTkS04cG8aukJwli54WQ/A82wcQvY1nWFNs5U-DvrVndnBjC4bNjLuNAYRlH88_A",
               "width": 3000,
               "height": 2121
             }
           }
         }
       ],
-      "full address": "Ильича, 10",
-      "button text": "сделать заказ",
-      "link url": "https://t.me/spotandchoos",
+      "Name": "академ",
+      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001021267632/83.092725%2C54.840883?m=82.942926%2C55.014735%2F10.69",
       "city": "академгородок",
-      "map url": "https://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001021267632/83.092725%2C54.840883?m=82.942926%2C55.014735%2F10.69"
+      "link url": "https://t.me/spotandchoos",
+      "full address": "Ильича, 10",
+      "button text": "сделать заказ"
     }
   },
   {
     "id": "recwxRn1YCURyT7UM",
     "createdTime": "2026-01-20T04:08:05.000Z",
     "fields": {
-      "Name": "ком45",
       "Pic": [
         {
           "id": "attgATgU79mmNjAJV",
           "width": 3308,
           "height": 2339,
-          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/fBndDaWWmliq4bNdnnFt5A/sS-RozVb1MRpuCOLrfUld3Uyjar_FesQRIL_rrcwMv873L7DmuvV0Jhbr-ekLSYUlF3q6q-y6t7LTI3Lyt-YiLrgUOPlt3FwtZ9tHtf_KaEC6kMTmQf8G9l_jteUAOOjBkBeXcmBGsUK1XbKGecy2w/7DbT55bOLwFtdiwGCAtjGOEoPibm47Y8csEplpAyPTo",
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/CVYKJ5N0w0Z_EGkIThPxIw/nma46U0WM5P72nBWc0ZvV1z9_7jK21mD6vCnzeLoKjaizEMnv4RKikU8iFzoWmHbSEXie4dMOfvD4foJ5Fmi8vZmLwr_b1DHsCQMA2U-D1jthyMH9rleLCPpJOCX8GNDbfGe3e6mj9ER6r3ndWQBcg/yCRHRNO4hDmL9hsw2lB-7pGpBojsePSppYyV8m0FvMM",
           "filename": "ком45.png",
           "size": 334319,
           "type": "image/png",
           "thumbnails": {
             "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/ffRbtwLOEziMG-b85dYGyw/LVbM1zWeIBeRor5-yqVYw2UIhsbvBBpAH3yhU4Fx_ACWumRbSgJddJCd-0YONS_Gx6wvpKfDSaP97uZaiw6lyEcAxwQCBsVP74j2PE2uSgpIXVo6xEpoJ8w88Y8FUwRlLH_AQI2TRUs1IcWbeSqLyA/3w-UTf3yQza5Mfm7ijdaFWFVSkCg2AaPYPX2THLh2BE",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/d__zltINMhQYsdGKn_6How/snafDs4wOV2JR4pN4HQwBaTZJ8rgplaP5LGRUz5MmiWFlPul2aTv0veihVAyJaLReHueJe-5d_PBDzN8VanmMnczIrEP_EPefEgVOWGn0VGaih8ecpt2MyZ6EDfDQFI_tGH0agRtOsNlydl6BrCLUg/o0m2_PhLGqL-dvH27snYiMLhvhGT_OFeiYU2wmUhXJk",
               "width": 51,
               "height": 36
             },
             "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/Wup_6XSvl0-DoKEXhvSlrg/RBWhg7P2thaXYcuWrkifzmupcLFi-PJ8Qw-7e59AVp3wbjdpAKBkIPQi2_Znyp1YlXEkICgNXdv8RU2thAzSzsHY17mZ0ae5KeKGkbWrsSkIsyB-LRX4Ykeh3JC9j6o6VZ-opc6jx2Mcq8-RWx4iaA/WQyFVDNJotHmMWd-OPQilZz6AX0hufTpmNcWQjC0qD8",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/YLiHbpnfS-Mc8BL6s-EaDg/cOTtPsWh6b1v79V1TAF4Vji1uqIzP5AU4AzdW9AoMc1Ij50RwaYy4eU375jbg3tGRgp2Yrgi9B3rioqScO2JhHzpHcnFHIQz5AKOAaLotRiECV_Iu2FlQbY6IpqHTT7gbg3odu4h4iK_qwf6lUWEMQ/7JY5fitAh8yi-UKOgoSTiKvEq7L10Czq83K_MSIgqQA",
               "width": 724,
               "height": 512
             },
             "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778536800000/fiU1-NeMKsfm4ZhbqwYgig/BZnZzEVRl-cM26osVZVtuVujIg8YsrAJXv2XFBE0bsmaBk5gZBUn5xWSfJ-Cc2yTqZ52sf65gy0BGbnta0IzH27K-m-8E7MTTqNQLpd_tFhGPGEDnhuIBYnuLG5mUMA_zoc50Ona9CqeJWM0ucOCqw/ZJyk5tl2--HuqGfBAt-WZut41M2-Hvyu1OzyFd64ae8",
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1778544000000/jxrhqqPziDfbyoVcGlMVsA/h6lENyTSoLptiXJzGSPhz5hgF6KE6TFEAKVBKaG1efXOtKWyAp_wZMQRGxi7bnkONdfodsCHaNATQaUz0SSp7__BfIdUWcVf64THLL61Xm2wRBjwBrksucqLvhWRxnlamlQzZI-JmE00WsgY7t4tAw/SxCU6nOZFOlgwmexFOZa4MPQfjSlepYROXrN4KW-K8k",
               "width": 3000,
               "height": 2121
             }
           }
         }
       ],
-      "full address": "Коммунистическая, 45",
-      "button text": "сделать заказ",
-      "link url": "https://t.me/spotandchoosKom45",
+      "Name": "ком45",
+      "map url": "http://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001046970845/82.923647%2C55.024126?m=83.092725%2C54.840883%2F10.69",
       "city": "центр",
-      "map url": "http://2gis.ru/novosibirsk/branches/70000001021267631/firm/70000001046970845/82.923647%2C55.024126?m=83.092725%2C54.840883%2F10.69"
+      "link url": "https://t.me/spotandchoosKom45",
+      "full address": "Коммунистическая, 45",
+      "button text": "сделать заказ"
     }
   }
 ]
